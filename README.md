@@ -1,5 +1,5 @@
 
-![Cover](_img/cover.png)
+![Cover](assets/cover.png)
 
 # 雪狮与龙
 ## 中国、西藏和达赖喇嘛
