@@ -15,4 +15,4 @@ include:
   - ch5.md
   - reference.md
 
-theme: jekyll-theme-modernist
+remove_theme: sighingnow/jekyll-gitbook
