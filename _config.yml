@@ -14,5 +14,6 @@ include:
   - ch4.md
   - ch5.md
   - reference.md
-
+toc:
+    enabled: true
 remove_theme: sighingnow/jekyll-gitbook
