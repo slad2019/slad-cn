@@ -15,4 +15,4 @@ include:
   - ch5.md
   - reference.md
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
