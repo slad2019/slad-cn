@@ -14,3 +14,5 @@ include:
   - ch4.md
   - ch5.md
   - reference.md
+
+theme: jekyll-theme-minimal
